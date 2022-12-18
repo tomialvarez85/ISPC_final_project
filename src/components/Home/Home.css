@@ -1,0 +1,8 @@
+.Home{
+    background-image: url('../../media/wc2022.jpeg');
+    background-position-x: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}

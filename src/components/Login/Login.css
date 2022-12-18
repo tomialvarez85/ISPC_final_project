@@ -1,0 +1,19 @@
+.Login{
+    /* background-image: url('../../media/greenimage.jpeg');
+    background-position-x: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#rt{
+    position: absolute;
+    align-self: center;
+}
